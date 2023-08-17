@@ -1,0 +1,65 @@
+.inbox {
+    font-size: 14px;
+    color: rgb(120, 120, 120);
+    margin-bottom: 20px;
+
+
+
+}
+.inbox-div {
+    display: flex;
+    flex-direction: ;
+}
+.gmail-box {
+font-family:arial;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 460px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.chewy-pfp {
+    margin-right: 10px;
+}
+.chewy-pfp-icon {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+}
+
+.header {
+font-size: 18px;
+  font-weight: bold;
+}
+.topic {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.message {
+    color: rgb(120, 120, 120);
+}
+.time {
+    font-size: 14px;
+    color: rgb(120, 120, 120);
+}
+.body {
+  flex: 1;
+}
+.email {
+    display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.email-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3px;
+  }
